@@ -1,0 +1,4 @@
+#archivos que quiero que se ignoren al subir todo a docker
+.venv
+.git
+.gitignore
